@@ -1,2 +1,2 @@
-# code_C_programming
+# code
 Basic C-programs
